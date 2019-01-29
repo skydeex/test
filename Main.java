@@ -13,6 +13,7 @@ public class Main {
 
 	}
 
+	// алгоритм sort весьма лаконичен :)
 	static void sort(int[] A, int p, int r) {
 		if(p < r) {
 			int q = (p + r) >> 1;
@@ -23,10 +24,11 @@ public class Main {
 		}
 	}
 
+
 	static void merge(int[] A, int p, int q, int r) {
 
 		// Автор, ты иммел ввиду порядковые номера или индекс массива с длинной?
-		// A.length подсказывает на номер, поэтому ниже под индексы
+		// A.length подсказывает на номер, поэтому ниже p--; q--; r--;
 		p--; q--; r--;
 
 
