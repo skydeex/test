@@ -5,7 +5,7 @@
       "version": "v0.1.0",
       "url": "https://raw.githubusercontent.com/skydeex/test/main/win64.exe",
       "sha256": "4ef31c22a1eefeecff82bf712acf9e7b96154fed3120d925292d03cf59b0fe14",
-      "signature": ""
+      "signature": "sBJWsAEq85pTOu1uFGps+ZFYtTxXTfmYu8juEDydEz/J7wqAMimlxQO9XLAMsdXEf17GpAfsWm6C+fUnkBiqBg=="
     }
   },
   "singbox": {
@@ -13,7 +13,7 @@
       "version": "v1.13.12",
       "url": "https://raw.githubusercontent.com/skydeex/test/main/sin.exe",
       "sha256": "64b1dfaed6fa758295233fd0bec8b32cf2115f29773adbf38e0f026c3c7986f2",
-      "signature": ""
+      "signature": "v9j71f55PdteaY4Qkl+ChHU+AVPQRFvCGS3uzwS28zeYo40Th7BtTf/tO4hLai6dR02ADdrZbHZN2TDo0qwqBg=="
     }
   }
 }
