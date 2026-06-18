@@ -2,10 +2,10 @@
   "version": 1,
   "client": {
     "windows/amd64": {
-      "version": "v0.1.3",
+      "version": "v0.1.31",
       "url": "https://raw.githubusercontent.com/skydeex/test/main/win64.exe",
-      "sha256": "f621fdaadb35695a7091e341ac080ac89496135322eaf9a2282be5514f5963bf",
-      "signature": "VFgmAeMSiseQUKXONLHxZZkcDXSV6srw3AfK4LxI5y/Jygvp2O0yqcTEmPh/ycEtGZwjTQaEUWmaf7FozIGoCQ=="
+      "sha256": "8c8d7854b91e0ca3b1650dd0f6fe9d558181e972031f2df53ce663db2bda04bf",
+      "signature": "MSrFi/C+lA/T38SDpteNd0L74maU8+174DvOmGOA9bckKRruiO8GqKHVUS6Vj4jzZtguHZ+PISs40YbTujNSCA=="
     }
   },
   "singbox": {
