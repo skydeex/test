@@ -1,1 +1,8 @@
-{   "version": 1,   "api_endpoints": [     "https://api.abrakahuabra.online"   ],   "server_list_updated_at": 1783271211,   "signature": "tmi5Q5qCmtAK07QJpY3KQK9++RU1c6yHUoNOoz2ZOt/xoe5eWcGfsH+D/jPBXHAuJQvL79kzJB2bDug+/YFKBg==" }
+{
+  "version": 1,
+  "api_endpoints": [
+    "https://api.abrakahuabra.online"
+  ],
+  "server_list_updated_at": 1788470860,
+  "signature": "BNMalxLwkxLMyPpqPEsqWBD60m9U+2/DqdJwRmAnERRUjjZ/3kA3zqqv9/btZg0I9vOpps3KQE7tVShVFkfCCQ=="
+}
